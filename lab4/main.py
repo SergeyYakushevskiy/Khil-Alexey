@@ -1,5 +1,6 @@
-from lab_4.Rectangle import Rectangle
+from lab4.Rectangle import Rectangle
 
+# Файл для работы с прямоугольником.
 rec = Rectangle(10, 5)
 print(rec)
 print('Периметр прямоугольника:', rec.get_perimeter())
