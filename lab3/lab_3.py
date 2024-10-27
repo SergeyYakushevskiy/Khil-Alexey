@@ -1,7 +1,6 @@
 import cmath
 import math
 
-
 def solve_simple_operation(numbers, operation):
     numbers = [int(i) for i in numbers] # Переводим каждое число в списке из строкового типа в численный
     result = ''
