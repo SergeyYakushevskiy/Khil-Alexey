@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<group>
+	<student name="Петров"> 
+		<mathematica>3</mathematica> 
+		<physics>3</physics> 
+		<computer_science>3</computer_science>
+	</student>
+	<student name="Сидорова">
+		<mathematica>4</mathematica> 
+		<control_system>3</control_system> 
+		<computer_science>5</computer_science>
+	</student>
+	<student name="Иванов">
+		<mathematica>5</mathematica> 
+		<physics>5</physics> 
+		<computer_science>5</computer_science> 
+		<DBMS>4</DBMS>
+	</student>
+	<student name="Анатолий">
+ 		<mathematica>2</mathematica>
+ 		<physics>3</physics>
+ 		<computer_science>4</computer_science>
+ 		<mechanica>4</mechanica>
+	</student>
+</group>
